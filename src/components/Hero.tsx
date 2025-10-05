@@ -72,7 +72,7 @@ const Hero = () => {
 
   // Array of video sources for the background
   const videoSources = [
-    "https://www.youtube.com/shorts/0vzqDnHaiPw?feature=share",
+    "https://www.youtube.com/shorts/0vzqDnHaiPw?feature=share.mp4",
     "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
    
