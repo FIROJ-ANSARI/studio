@@ -72,9 +72,9 @@ const Hero = () => {
 
   // Array of video sources for the background
   const videoSources = [
-    "/vid1.mp4",
-    "/vid2.mp4",
-    "/vid3.mp4",
+    "vid1.mp4",
+    "vid2.mp4",
+    "vid3.mp4",
    
   ];
 
